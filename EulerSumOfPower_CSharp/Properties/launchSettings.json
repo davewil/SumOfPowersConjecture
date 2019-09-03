@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EulerSumOfPower_CSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "1000"
+    }
+  }
+}
